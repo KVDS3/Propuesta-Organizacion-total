@@ -107,11 +107,5 @@ Se usa **Git + Git Flow**:
 ---
 
 ## 1️⃣1️⃣ Conclusión 🎯
-**ORGANIZACION TOTAL** es una aplicación integral que busca centralizar la gestión de la vida diaria en un solo lugar.  
+**ORGANIZACION TOTAL** es una aplicación integral que busca centralizar la gestión de la vida diaria en un solo lugar, ofreciendo una herramienta escalable, mantenible y confiable. Gracias al uso de Flutter como framework principal, la aplicación permite un diseño moderno y multiplataforma, mientras que la implementación de Clean Architecture con el patrón MVVM garantiza una estructura sólida que facilita su desarrollo y crecimiento. El empleo de Scrum como metodología ágil asegura entregas continuas de valor y la flexibilidad necesaria para adaptarse a las necesidades de los usuarios, consolidando a ORGANIZACION TOTAL como una solución eficiente para la organización personal.
 
-Gracias a:  
-- 🏗️ **Clean Architecture + MVVM**  
-- 📱 **Flutter (Dart)**  
-- 🔄 **Scrum como metodología ágil**  
-
-La app es **escalable, mantenible y confiable**, asegurando valor continuo para el usuario y flexibilidad ante futuras mejoras. 🚀
