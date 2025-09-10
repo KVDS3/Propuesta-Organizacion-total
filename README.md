@@ -29,9 +29,9 @@ Con capacidad de adaptarse a **futuras funcionalidades y módulos adicionales**.
 
 | 👨‍💻 Integrante | 🎯 Rol en Scrum                | 🛠️ Responsabilidades Técnicas                     |
 |----------------|-------------------------------|---------------------------------------------------|
-| **Braulio**    | Product Owner + Desarrollador | 📌 Definir visión del producto<br>📌 Priorizar backlog<br>📌 Desarrollo de funcionalidades |
-| **Kevin**      | Scrum Master + Desarrollador  | 📌 Facilitar Scrum<br>📌 Eliminar impedimentos<br>📌 Backend & soporte técnico |
-| **Oscar**      | Desarrollador Principal       | 📌 Frontend en Flutter<br>📌 Diseño UI/UX<br>📌 Integración con lógica de negocio |
+| **Braulio Francisco Salas González**    | Product Owner + Desarrollador | 📌 Definir visión del producto<br>📌 Priorizar backlog<br>📌 Desarrollo de funcionalidades |
+| **Kevin Conejo Salazar**      | Scrum Master + Desarrollador  | 📌 Facilitar Scrum<br>📌 Eliminar impedimentos<br>📌 Backend & soporte técnico |
+| **Oscar Ulises Ramírez Cruz**      | Desarrollador Principal       | 📌 Frontend en Flutter<br>📌 Diseño UI/UX<br>📌 Integración con lógica de negocio |
 
 ---
 
